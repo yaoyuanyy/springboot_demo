@@ -8,6 +8,4 @@
 /target/
 /bin/
 /log/
-*.md
-/**/*.md
 
