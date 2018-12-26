@@ -8,5 +8,6 @@
 /target/
 /bin/
 /log/
-*.iml
+*.md
+/**/*.md
 
